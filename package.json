@@ -1,0 +1,22 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "Web Server using express on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halo123u/node-web-server.git"
+  },
+  "author": "Oswaldo Almazo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halo123u/node-web-server/issues"
+  },
+  "homepage": "https://github.com/halo123u/node-web-server#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
