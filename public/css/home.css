@@ -3,7 +3,10 @@ body{
     height: 3000px;
 }
 
-.logo {
-    height: 25px;
-    width: 25px;
+.navigation1 .navbar-brand {
+  display: flex;
+  align-items: center;
+}
+.navigation1 .navbar-brand>img {
+  padding: 7px 14px;
 }
